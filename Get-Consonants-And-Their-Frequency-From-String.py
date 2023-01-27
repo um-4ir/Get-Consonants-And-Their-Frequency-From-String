@@ -60,6 +60,8 @@ def NumberOfConsonants():
 
     print("\b]")
 
+# Main Function
+
 global text                        # Defining Global Variable
 text="Umair Ali - FA22-BSE-137"
 
@@ -74,6 +76,4 @@ while (text != "stop"):
         NumberOfConsonants()
     else:
         print(" Enter only Alphabets")
-
-
 
